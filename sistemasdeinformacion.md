@@ -17,7 +17,7 @@ IA
 
 En 3000 ac es el primer registro de que se guardaban datos
 
-En 1800 ac —> un matemático persa invento el algoritmo (resolución metódico de un problema)
+En 1800 ac —> un matemático persa (Al Khwarizmi) invento el algoritmo (resolución metódico de un problema)
 
 En 500 ac —> los chinos inventan el ábaco. Con esto se realizan cálculos rápidos y complejos.
 
