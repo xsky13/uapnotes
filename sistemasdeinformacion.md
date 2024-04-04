@@ -82,9 +82,7 @@ En 1942 —> calculadora para resolver sistemas de ecuaciones lineales simultane
 
 En 1944 —> Mark 1: hacia calculo numeritos, proyectos científicos, lectura de datos, proyectos de defensas, programación manual
 
-En 1946 —> primera computadora de electrónica de propósito general, capacidad de 5000 operaciones aritméticas por segundo.
-
-En 1946 —> ENIAC
+En 1946 —> primera computadora de electrónica de propósito general, capacidad de 5000 operaciones aritméticas por segundo. (ENIAC)
 
 En 1947 —> se inventa el transistor
 
